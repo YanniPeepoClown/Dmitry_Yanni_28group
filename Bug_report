@@ -1,0 +1,8 @@
+Структура баг репорта:
+1. Id
+2. Summary / Description
+3. Attachment
+4. STR (Steps to reproduced)
+5. ER, AR
+6. Severity
+7. Priority
